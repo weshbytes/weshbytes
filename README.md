@@ -18,9 +18,9 @@
 Wesh 165
 -
 
-Languages  |  c# and python
-Developer  |  Aimbot External
-running away 
+Studing    |  Coding
+Developer  |  C#, C++ and Python
+running away 👻
 
   
 ```
